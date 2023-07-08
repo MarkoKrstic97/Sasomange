@@ -1,2 +1,2 @@
 # Sasomange
-Test Cases - Test Scenario 
+Positive Test Cases - Negative Test Cases - Test Scenario 
